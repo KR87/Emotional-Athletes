@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<embed name="GoodEnough" src="/music/good_enough.mp3" loop="false" hidden="true" autostart="true">
+	<title>Emotional Athletes</title>
+	<link href="home.css" rel="stylesheet" type="text/css">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+
+<body>
+
+<div id= "first">
+<h1 style= "font-size: 58px";>EMOTIONAL ATHLETES</h1>
+<h3 style= "font-size: 20px; color: white; font-family: calibri; text-align: center; background: #8f2539";>Change the mood of your favourite athletes by clicking their mood!</h3>
+</div>
+
+<p style="background: none; font-family: calibri; color: #8f2539; font-size: 18px;"><strong>CLICK</strong> the button to pause or play the background music</p>
+
+<div id="mc">
+<embed name="Mince" style="margin-left: 690px; margin-right: 690px;" src="Assets/audio/MinecraftVolumeAlpha.mp3" width="20" height="20" loop="true" autostart="true">
+</div>
+
+<p class="sports">Basketball</p>
+
+<!--Kawhi Leonard-->
+
+
+
+<!--NEW TILL TOP-->
+
+
+<p style="margin-left: 525px; margin-right: 525px; text-align: center">Kawhi Leonard</p>
+<!--Audio-->
+<audio id="kawAudio" controls>
+  <source src="Assets/audio/kawhi2.ogg" type="audio/ogg">
+  <source src="Assets/audio/kawhi.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<br>
+<br>
+<!--audio done-->
+
+<!--Audio End--> 
+<button style="border: 3px solid white;" text-decoration: " onclick="document.getElementById('Leo').src='Assets/images/ks.jpg'">Sad Kawhi</button>
+
+<img id="Leo" src="Assets/images/kh.jpg" class="image">
+<button style="border: 3px solid white;" onclick="document.getElementById('Leo').src='Assets/images/kh.jpg'">Happy Kawhi</button>
+
+</div>
+
+</body>
+<!--Lebron-->
+<p style="margin-left: 525px; margin-right: 525px; text-align: center">LeBron James</p>
+
+<!--Audio-->
+<audio id="LBJaudio" controls>
+  <source src="Assets/audio/lebron2.ogg" type="audio/ogg">
+  <source src="Assets/audio/lebron.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<br>
+<br>
+<!--Audio End-->
+
+<div id="Lebron">
+<button style="border: 3px solid white;" onclick="document.getElementById('myImage').src='Assets/images/a.jpg'">Sad Lebron</button>
+
+<img id="myImage" src="Assets/images/b.jpg">
+
+<button style="border: 3px solid white;" onclick="document.getElementById('myImage').src='Assets/images/b.jpg'">Happy Lebron</button>
+
+</div>
+<br>
+
+
+<!--Michael jordan-->
+
+<div id="Jordan">
+<p style="margin-left: 40px; margin-right: 40px; text-align: center">Michael Jordan</p>
+
+<!--Audio-->
+<audio id="MJaudio" controls>
+  <source src="Assets/audio/jordan2.ogg" type="audio/ogg">
+  <source src="Assets/audio/jordan.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<br>
+<br>
+<!--Audio End-->
+
+<button style="border: 3px solid white;" onclick="document.getElementById('air').src='Assets/images/mjs.jpg'">Sad Jordan</button>
+
+<img id="air" src="Assets/images/mjh.jpg">
+<button style="border: 3px solid white;" onclick="document.getElementById('air').src='Assets/images/mjh.jpg'">Happy Jordan</button>
+</div>
+
+<br>
+<hr>
+
+<!--HOCKEY-->
+<!--Auston Matthews-->
+<p class="sports">Hockey</p>
+
+<div id="Matt">
+<p style="margin-left: 525px; margin-right: 525px; text-align: center">Auston Matthews</p>
+
+<!--Audio-->
+<audio id="AMaudio" controls>
+  <source src="Assets/audio/matt2.ogg" type="audio/ogg">
+  <source src="Assets/audio/matt.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<br>
+<br>
+<!--Audio End-->
+
+<button style="border: 3px solid white;" onclick="document.getElementById('Auston').src='Assets/images/ams.jpg'">Sad Matthews</button>
+
+<img id="Auston" src="Assets/images/amh.jpg">
+<button style="border: 3px solid white;" onclick="document.getElementById('Auston').src='Assets/images/amh.jpg'">Happy Matthews</button>
+</div>
+
+<br>
+
+<!--Crosby-->
+<div id="Sid">
+<p style="margin-left: 70px; margin-right: 70px; text-align: center">Sidney Crosby</p>
+
+<!--Audio-->
+<audio id="SCaudio" controls>
+  <source src="Assets/audio/sid2.ogg" type="audio/ogg">
+  <source src="Assets/audio/sid.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<br>
+<br>
+<!--Audio End-->
+
+<!--Audio2-->
+<audio id="CROaudio" controls>
+  <source src="Assets/audio/cro2.ogg" type="audio/ogg">
+  <source src="Assets/audio/cro.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<!--Audio2 End-->
+<br>
+<br>
+
+<button style="border: 3px solid white;" onclick="document.getElementById('Crosby').src='Assets/images/cs.jpg'">Sad Crosby</button>
+
+<img id="Crosby" src="Assets/images/ch.jpg">
+<button style="border: 3px solid white;" onclick="document.getElementById('Crosby').src='Assets/images/ch.jpg'">Happy Crosby</button>
+
+</div>
+<br>
+
+<!--Wayne-->
+<div id="Wayne">
+<p style="margin-left: 210px; margin-right: 210px; text-align: center">Wayne Gretzky</p>
+
+<!--Audio-->
+<audio id="WGaudio" controls>
+  <source src="Assets/audio/wayne2.ogg" type="audio/ogg">
+  <source src="Assets/audio/wayne.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<br>
+<br>
+<!--Audio End-->
+
+<button style="border: 3px solid white;" onclick="document.getElementById('Gret').src='Assets/images/wgs.jpg'">Sad Gretzky</button>
+
+<img id="Gret" src="Assets/images/wgh.jpg">
+<button style="border: 3px solid white;" onclick="document.getElementById('Gret').src='Assets/images/wgh.jpg'">Happy Gretzky</button>
+
+</div>
+<br>
+<hr>
+
+<p class="sports">Soccer</p>
+<!--Soccer-->
+<!--Mmpage-->
+<div id="Mbappe">
+<p style="margin-left: 135px; margin-right: 135px; text-align: center">Kylian Mbappe</p>
+
+<!--Audio-->
+<audio id="KMaudio" controls>
+  <source src="Assets/audio/bap2.ogg" type="audio/ogg">
+  <source src="Assets/audio/bap.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<br>
+<br>
+<!--Audio End-->
+
+<button style="border: 3px solid white;" onclick="document.getElementById('Bape').src='Assets/images/kms.jpg'">Sad Mbappe</button>
+
+<img id="Bape" src="Assets/images/kmh.jpg">
+<button style="border: 3px solid white;" onclick="document.getElementById('Bape').src='Assets/images/kmh.jpg'">Happy Mbappe</button>
+
+</div>
+<br>
+
+
+<!--Messi-->
+<div id="Messi">
+<p style="margin-left: 115px; margin-right: 115px; text-align: center">Lionel Messi</p>
+
+<!--Audio-->
+<audio id="LMaudio" controls>
+  <source src="Assets/audio/mess2.ogg" type="audio/ogg">
+  <source src="Assets/audio/mess.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<br>
+<br>
+<!--Audio End-->
+
+<button style="border: 3px solid white;" onclick="document.getElementById('messi').src='Assets/images/ms.jpeg'">Sad Messi</button>
+
+<img id="messi" src="Assets/images/mh.jpeg">
+<button style="border: 3px solid white;" onclick="document.getElementById('messi').src='Assets/images/mh.jpeg'">Happy Messi</button>
+
+</div>
+<br>
+
+<!--Pelé-->
+<div id="Pel">
+<p style="margin-left: 95px; margin-right: 95px; text-align: center">Pelé</p>
+
+<!--Audio-->
+<audio id="Paudio" controls>
+  <source src="Assets/audio/pele2.ogg" type="audio/ogg">
+  <source src="Assets/audio/pele.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<br>
+<br>
+<!--Audio End-->
+
+<button style="border: 3px solid white;" onclick="document.getElementById('pell').src='Assets/images/pps.jpg'">Sad Pelé</button>
+
+<img id="pell" src="Assets/images/pph.jpg">
+<button style="border: 3px solid white;" onclick="document.getElementById('pell').src='Assets/images/pph.jpg'">Happy Pelé</button>
+
+</div>
+
+<br>
+<hr>
+
+<p class="sports">Cricket</p>
+<!--Cricket-->
+<!--Kohli-->
+<div id="Kohli">
+<p style="margin-left: 135px; margin-right: 135px; text-align: center">Virat Kohli</p>
+
+<!--Audio-->
+<audio id="VKaudio" controls>
+  <source src="Assets/audio/kohli2.ogg" type="audio/ogg">
+  <source src="Assets/audio/kohli.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<br>
+<br>
+<!--Audio End-->
+
+<button style="border: 3px solid white;" onclick="document.getElementById('Virat').src='Assets/images/vs.jpg'"> Sad Kohli</button>
+
+<img id="Virat" src="Assets/images/vh.jpg">
+<button style="border: 3px solid white;" onclick="document.getElementById('Virat').src='Assets/images/vh.jpg'">Happy Kohli</button>
+
+</div>
+<br>
+
+<!--Tendulkar-->
+<div id="Sach">
+<p style="margin-left: 115px; margin-right: 115px; text-align: center">Sachin Tendulkar</p>
+
+<!--Audio-->
+<audio id="STaudio" controls>
+  <source src="Assets/audio/sachin2.ogg" type="audio/ogg">
+  <source src="Assets/audio/sachin.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<br>
+<br>
+<!--Audio End-->
+
+<button style="border: 3px solid white;" onclick="document.getElementById('Tend').src='Assets/images/sts.jpg'"> Sad Tendulkar</button>
+
+<img id="Tend" src="Assets/images/sth.jpg">
+<button style="border: 3px solid white;" onclick="document.getElementById('Tend').src='Assets/images/sth.jpg'">Happy Tendulkar</button>
+
+</div>
+<br>
+
+<!--Brad-->
+<div id="Brad">
+<p style="margin-left: 95px; margin-right: 95px; text-align: center">Donald Bradman</p>
+
+<!--Audio-->
+<audio id="DBaudio" controls>
+  <source src="Assets/audio/brad2.ogg" type="audio/ogg">
+  <source src="Assets/audio/brad.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<br>
+<br>
+<!--Audio End-->
+
+<button style="border: 3px solid white;" onclick="document.getElementById('Don').src='Assets/images/dbs.jpg'"> Sad Bradman</button>
+
+<img id="Don" src="Assets/images/dbh.jpg">
+<button style="border: 3px solid white;" onclick="document.getElementById('Don').src='Assets/images/dbh.jpg'">Happy Bradman</button>
+
+</div>
+<br>
+<hr>
+
+<p class="sports">Golf</p>
+<!--Golf-->
+<!--Cameron Champ-->
+<div id="Cham">
+<p style="margin-left: 95px; margin-right: 95px; text-align: center">Cameron Champ</p>
+
+<!--Audio-->
+<audio id="CCaudio" controls>
+  <source src="Assets/audio/champ2.ogg" type="audio/ogg">
+  <source src="Assets/audio/champ.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<br>
+<br>
+<!--Audio End-->
+
+<button style="border: 3px solid white;" onclick="document.getElementById('Cam').src='Assets/images/ccs.jpg'">Sad Champ</button>
+
+<img id="Cam" src="Assets/images/cch.jpg">
+<button style="border: 3px solid white;" onclick="document.getElementById('Cam').src='Assets/images/cch.jpg'">Happy Champ</button>
+
+</div>
+<br>
+<!--Tiger-->
+
+<div id="Tiger">
+<p style="margin-left: 55px; margin-right: 55px; text-align: center"> Tiger Woods</p>
+
+<!--Audio-->
+<audio id="TWaudio" controls>
+  <source src="Assets/audio/woods2.ogg" type="audio/ogg">
+  <source src="Assets/audio/woods.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<br>
+<br>
+<!--Audio End-->
+
+<button style="border: 3px solid white;" onclick="document.getElementById('Woods').src='Assets/images/tws.jpg'"> Sad Tiger</button>
+
+<img id="Woods" src="Assets/images/twh.jpg">
+
+<button style="border: 3px solid white;" onclick="document.getElementById('Woods').src='Assets/images/twh.jpg'">Happy Tiger</button>
+
+</div>
+<br>
+
+<!--Jck-->
+<div id="Jack">
+<p style="margin-left: 95px; margin-right: 95px; text-align: center">Jack Nicklaus</p>
+
+<!--Audio-->
+<audio id="JNaudio" controls>
+  <source src="Assets/audio/jack2.ogg" type="audio/ogg">
+  <source src="Assets/audio/jack.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<br>
+<br>
+<!--Audio End-->
+
+<button style="border: 3px solid white;" onclick="document.getElementById('Nick').src='Assets/images/jns.jpg'"> Sad Nicklaus</button>
+
+<img id="Nick" src="Assets/images/jnh.png">
+<button style="border: 3px solid white;" onclick="document.getElementById('Nick').src='Assets/images/jnh.png'">Happy Nicklaus</button>
+
+</div>
+<br>
+<hr>
+
+<p class="sports">Tennis</p>
+<!--Tennis-->
+<!--Serena-->
+<div id="Serena">
+<p style="margin-left: 135px; margin-right: 135px; text-align: center">Serena Williams</p>
+
+<!--Audio-->
+<audio id="SWaudio" controls>
+  <source src="Assets/audio/serena2.ogg" type="audio/ogg">
+  <source src="Assets/audio/serena.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<br>
+<br>
+<!--Audio End-->
+
+<button style="border: 3px solid white;" onclick="document.getElementById('Ser').src='Assets/images/ss.jpg'">Sad Serena</button>
+
+<img id="Ser" src="Assets/images/sh.jpg">
+<button style="border: 3px solid white;" onclick="document.getElementById('Ser').src='Assets/images/sh.jpg'">Happy Serena</button>
+
+</div>
+<br>
+<hr>
+
+<p class="sports">Swimming</p>
+
+<!--Michael phelps-->
+<div id="Phelps">
+<p style="margin-left: 175px; margin-right: 175px; text-align: center">Michael Phelps</p>
+
+<!--Audio-->
+<audio id="MPaudio" controls>
+  <source src="Assets/audio/phelps2.ogg" type="audio/ogg">
+  <source src="Assets/audio/phelps.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<br>
+<br>
+<!--Audio End-->
+
+<button style="border: 3px solid white;" onclick="document.getElementById('Mich').src='Assets/images/ps.jpg'">Sad Phelps</button>
+
+<img id="Mich" src="Assets/images/ph.jpg">
+<button style="border: 3px solid white;" onclick="document.getElementById('Mich').src='Assets/images/ph.jpg'">Happy Phelps</button>
+
+</div>
+<br>
+<br>
+</body>
+</html>
