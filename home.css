@@ -1,0 +1,268 @@
+/*CSS linked to html*/
+
+#first {
+	background: #1062cc;
+	text-align: center
+	padding-top: 20px;
+}
+
+#mc {
+	background: none;
+	padding: 0px;
+}
+
+h1 {
+	color: #ffcc42;
+	font-family: Bombardier;
+	text-align: center;
+	padding-top: 20px;
+
+}
+
+
+p {
+	text-align: center;
+	color: yellow;
+	background: black;
+	font-family: Avenir;
+	font-size: 25px;
+}
+
+
+
+
+#comment {
+	background: none;
+	color: white;
+}
+
+.sports {
+	color: #fafcff;
+	text-decoration: underline;
+  	text-decoration-color: #b31010;
+  	text-shadow: 2px 2px #a19d9d;
+	font-size: 50px;
+	background: none;
+	font-family: DIN Alternate;
+}
+
+body{
+	 height: 14250px;
+  	background-color: orange; /* For browsers that do not support gradients */
+ 	 background-image: linear-gradient(orange, blue, red); /* Standard syntax (must be last) */
+
+}
+button{
+	
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  background: #9e2f2f;
+  color: white;
+}
+
+#Leo {
+	display: block;
+	margin-left: 325px;
+	margin-right: 325px;
+}
+#kawAudio {
+	display: inline-flex;
+	margin-left: 562px;
+	margin-right: 562px;
+}
+
+#Lebron {
+	 display: block;
+  	 margin-left: 548px;
+ 	 margin-right: 548px;
+}
+
+#LBJaudio {
+	display: inline-flex;
+	margin-left: 558px;
+	margin-right: 558px;
+}
+
+#Jordan {
+	display: block;
+	margin-left: 460px;
+	margin-right: 460px;
+}
+
+#MJaudio {
+	display: inline-flex;
+	margin-left: 105px;
+	margin-right: 105px;
+}
+
+#Auston {
+	display: block;
+	margin-left: 511px;
+	margin-right:511px;
+}
+
+#AMaudio {
+	display: inline-flex;
+	margin-left: 563px;
+	margin-right: 563px;
+}
+
+#Sid {
+	display: block;
+	margin-left: 433px;
+	margin-right:433px;
+	size: 10%;
+}
+
+#SCaudio {
+	display: inline-flex;
+	margin-left: 130px;
+	margin-right: 130px;
+}
+
+#CROaudio {
+	display: inline-flex;
+	margin-left: 128px;
+	margin-right: 128px;
+}
+
+#Wayne {
+	display: block;
+	margin-left: 289px;
+	margin-right:289px;
+}
+
+#WGaudio {
+	display: inline-flex;
+	margin-left: 279px;
+	margin-right: 279px;
+}
+
+#Mbappe {
+	 display: block;
+  	 margin-left: 400px;
+ 	 margin-right: 400px;
+}
+#KMaudio {
+	display: inline-flex;
+	margin-left: 164px;
+	margin-right: 164px;
+}
+
+
+#Messi {
+	 display: block;
+  	 margin-left: 425px;
+ 	 margin-right: 425px;
+}
+#LMaudio {
+	display: inline-flex;
+	margin-left: 143px;
+	margin-right: 143px;
+}
+
+#Pel {
+	 display: block;
+  	 margin-left: 420px;
+ 	 margin-right: 420px;
+}
+#Paudio {
+	display: inline-flex;
+	margin-left: 142px;
+	margin-right: 142px;
+}
+
+#Kohli {
+	display: block;
+	margin-left: 386px;
+	margin-right: 386px;
+}
+
+#VKaudio {
+	display: inline-flex;
+	margin-left: 178px;
+	margin-right: 178px;
+}
+
+#Sach {
+	display: block;
+	margin-left: 419px;
+	margin-right: 419px;
+}
+
+#STaudio {
+	display: inline-flex;
+	margin-left: 144px;
+	margin-right: 144px;
+}
+
+#Brad {
+	display: block;
+	margin-left: 420px;
+	margin-right: 420px;
+}
+
+#DBaudio {
+	display: inline-flex;
+	margin-left: 144px;
+	margin-right: 144px;
+}
+
+#Cham {
+	display: block;
+	margin-left: 435px;
+	margin-right: 435px;
+}
+
+#CCaudio {
+	display: inline-flex;
+	margin-left: 131px;
+	margin-right: 131px;
+}
+
+#Tiger {
+	display: block;
+	margin-left: 465px;
+	margin-right: 465px;
+}
+
+#TWaudio {
+	display: inline-flex;
+	margin-left: 102px;
+	margin-right: 102px;
+}
+
+#Jack {
+	display: block;
+	margin-left: 440px;
+	margin-right: 440px;
+}
+#JNaudio {
+	display: inline-flex;
+	margin-left: 125px;
+	margin-right: 125px;
+}
+
+#Serena {
+	display: block;
+	margin-left: 400px;
+	margin-right:400px;
+}
+#SWaudio {
+	display: inline;
+	margin-left: 162px;
+	margin-right: 162px;
+}
+
+#Phelps {
+	display: block;
+	margin-left: 364px;
+	margin-right: 364px;
+}
+#MPaudio {
+	display: inline;
+	margin-left: 201px;
+	margin-right: 201px;
+}
